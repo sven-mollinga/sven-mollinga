@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I’m currently working as a Tech Lead Observability @ Albert Heijn
+- I’m currently working as a CTO @ Shock Media
 - Fanatic user of Open Source projects
-- Prometheus and Elastic Subject Matter Expert
+- Passionate about SRE and Observability tooling like Prometheus & Grafana.
 
 <h3 align="left">Presentations</h3>
 
